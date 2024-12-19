@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5fb6d07140a612107f44ca28064e8955</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Open</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Open List</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">bd06903d406612107f44ca28064e89d6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">bd06903d406612107f44ca28064e89d6</sys_scope>
         <sys_update_name>sys_app_module_5fb6d07140a612107f44ca28064e8955</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-18 19:24:31</sys_updated_on>
+        <sys_updated_on>2024-12-18 21:59:11</sys_updated_on>
         <timeline_page/>
-        <title>Open</title>
+        <title>Open List</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
